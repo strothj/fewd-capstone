@@ -1,0 +1,1 @@
+Help users find food destinations in their area that are open late at night using data from the Foursquare API and Google Maps.
